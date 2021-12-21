@@ -1,0 +1,16 @@
+C:\Users\lyncas\source\repos\classes\classes\bin\Debug\net5.0\classes.exe
+C:\Users\lyncas\source\repos\classes\classes\bin\Debug\net5.0\classes.deps.json
+C:\Users\lyncas\source\repos\classes\classes\bin\Debug\net5.0\classes.runtimeconfig.json
+C:\Users\lyncas\source\repos\classes\classes\bin\Debug\net5.0\classes.runtimeconfig.dev.json
+C:\Users\lyncas\source\repos\classes\classes\bin\Debug\net5.0\classes.dll
+C:\Users\lyncas\source\repos\classes\classes\bin\Debug\net5.0\ref\classes.dll
+C:\Users\lyncas\source\repos\classes\classes\bin\Debug\net5.0\classes.pdb
+C:\Users\lyncas\source\repos\classes\classes\obj\Debug\net5.0\classes.csproj.AssemblyReference.cache
+C:\Users\lyncas\source\repos\classes\classes\obj\Debug\net5.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyncas\source\repos\classes\classes\obj\Debug\net5.0\classes.AssemblyInfoInputs.cache
+C:\Users\lyncas\source\repos\classes\classes\obj\Debug\net5.0\classes.AssemblyInfo.cs
+C:\Users\lyncas\source\repos\classes\classes\obj\Debug\net5.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\lyncas\source\repos\classes\classes\obj\Debug\net5.0\classes.dll
+C:\Users\lyncas\source\repos\classes\classes\obj\Debug\net5.0\ref\classes.dll
+C:\Users\lyncas\source\repos\classes\classes\obj\Debug\net5.0\classes.pdb
+C:\Users\lyncas\source\repos\classes\classes\obj\Debug\net5.0\classes.genruntimeconfig.cache
